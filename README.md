@@ -6,9 +6,7 @@ Enlace: https://github.com/jairozamora/laboratorio-serverless/blob/main/registro
 
 Instalación de OpenFaaS CLI
 
-Para este laboratorio se utilizó OpenFaaS CLI instalado mediante Homebrew en macOS.
-
-También se incluye en la carpeta scripts/ un script de PowerShell para descargar OpenFaaS CLI en equipos Windows.
+Para este laboratorio se utilizó OpenFaaS CLI instalado mediante Homebrew en macOS. El cual se incluia en descarga_open_cli.txt
 
 Nota: el script de Windows es una alternativa de instalación y no fue utilizado durante la implementación de este laboratorio.
 
