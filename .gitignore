@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Editores
+.vscode/
+.idea/
+
+# Credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Docker
+*.tar
+*.tar.gz
+# Archivos generados por OpenFaaS
+build/
