@@ -1,6 +1,8 @@
 Práctica con Serverless
 
-Nota: No se pudo localizar un correo personal de la aula virtual, se uso el correo personal. Tambien se incorporo un documento con screenshots del proceso en >registro-serverless/Laboratorio de docker.docx
+Nota: No se pudo localizar un correo personal de la aula virtual, se uso el correo personal. Tambien se incorporo un documento con screenshots del proceso en >registro-serverless/Laboratorio de docker.docx 
+
+Enlace: https://github.com/jairozamora/laboratorio-serverless/blob/main/registro-serverless/Laboratorio%20de%20docker.docx
 
 
 Laboratorio Serverless – OpenFaaS
